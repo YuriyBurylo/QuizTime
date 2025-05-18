@@ -1,0 +1,31 @@
+.results_box {
+        width: 94%;
+        margin: 1.8rem auto;
+        padding: 2rem;
+        background-color: mediumslateblue;
+        border-radius: 10px;
+        box-shadow: 0px 0px 15px #fff;
+}
+
+.results_box h3 {
+    font-size: 1.5rem;
+}
+
+.btn {
+    color:#fff;
+    font-weight: 700;
+    font-size: 1.2rem;
+    margin: 1.5rem auto 0rem auto;
+    padding: 1rem 2rem;
+    background-color: red;
+    border-radius: 10px;
+    transition: all .2s linear;
+}
+
+.btn:hover {
+    transform: scale(1.06);
+}
+
+.btn:active {
+    box-shadow: 0px 0px 12px #fff;
+}

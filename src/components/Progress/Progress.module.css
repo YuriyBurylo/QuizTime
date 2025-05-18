@@ -1,11 +1,15 @@
 .progress_section {
-    width: 90%;
+    width: 94%;
     margin: 1rem auto;
+    padding: 1rem;
+    background-color: mediumslateblue;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px #fff;
 }
 
 .progress_bar {
     margin: 1rem auto;
-    width: 85%;
+    width: 90%;
     height: 1rem;
     border: 1px solid #fff;
     border-radius: 5px;
@@ -17,4 +21,9 @@
     border: 1px solid blue;
     border-radius: 5px;
     height: 100%;
+}
+
+.percentage {
+    font-weight: 700;
+    color: #fff;
 }
