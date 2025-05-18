@@ -1,0 +1,20 @@
+.progress_section {
+    width: 90%;
+    margin: 1rem auto;
+}
+
+.progress_bar {
+    margin: 1rem auto;
+    width: 85%;
+    height: 1rem;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.progress {
+    background-color: blue;
+    border: 1px solid blue;
+    border-radius: 5px;
+    height: 100%;
+}
