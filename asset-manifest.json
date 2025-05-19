@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/QuizTime/static/css/main.017f46e7.css",
-    "main.js": "/QuizTime/static/js/main.8688d657.js",
+    "main.js": "/QuizTime/static/js/main.7e764742.js",
     "static/js/453.2b0627e5.chunk.js": "/QuizTime/static/js/453.2b0627e5.chunk.js",
     "index.html": "/QuizTime/index.html",
     "main.017f46e7.css.map": "/QuizTime/static/css/main.017f46e7.css.map",
-    "main.8688d657.js.map": "/QuizTime/static/js/main.8688d657.js.map",
+    "main.7e764742.js.map": "/QuizTime/static/js/main.7e764742.js.map",
     "453.2b0627e5.chunk.js.map": "/QuizTime/static/js/453.2b0627e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.017f46e7.css",
-    "static/js/main.8688d657.js"
+    "static/js/main.7e764742.js"
   ]
 }
